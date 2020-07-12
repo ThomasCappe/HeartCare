@@ -1,16 +1,9 @@
 ©HeartCare V1.0 2020
 
 ----Auteurs----
-Cappe_Thomas, 
-Cuirot_Jean, 
-Desclodures_Eliott,
-Lourdin_Antoine,
-Paturel_Ronan,
-Robyns_Jonathan
+Cappe_Thomas
 
 ----INTRODUCTION----
-
-Application créé par le groupe du jeudi n°5
 
 L'application Heart-Care a été créé pour la visualisation en direct du rythme cardiaque d'une personne sur un portable ou un ordinateur via un lien internet. L'installation électronique coté patient est d'un capteur de pulsation connecté à une raspberry via un programme python "HeartRate.py".
 L'application HeartRate.py permet d'envoyer le nombre de pulsation au serveur test.mosquitto.org
