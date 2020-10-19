@@ -12,6 +12,7 @@ L'application "ProtectHeart.py" permet de recevoir les données du patient, puis
 
 Une page web est aussi disponible, elle permet de visualiser les messages d'alertes et l'historique des pulsations via un graphique. 
 
+Les valeurs ici sont des valeurs aléatoires de test. 
 
 ----UTILISATION----
 
