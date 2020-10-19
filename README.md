@@ -1,4 +1,4 @@
-©HeartCare V1.0 2020
+HeartCare V1.0 2020
 
 ----Auteurs----
 Cappe_Thomas
